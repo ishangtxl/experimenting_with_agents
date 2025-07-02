@@ -5,3 +5,7 @@ test_delete_functionality.py
 setup_database.py
 setup_postgresql_mac.md
 README.md
+.gitignore
+.idea
+alembic.ini
+alembic
