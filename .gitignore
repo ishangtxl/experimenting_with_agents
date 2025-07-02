@@ -1,0 +1,7 @@
+.env
+test_database.py
+test_frontend_integration.py
+test_delete_functionality.py
+setup_database.py
+setup_postgresql_mac.md
+README.md
